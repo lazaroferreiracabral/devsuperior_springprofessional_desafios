@@ -1,4 +1,4 @@
-package com.devsuperior.springprofessional.desafio.desafio02.domain.model;
+package com.devsuperior.springprofessional.desafio.desafio02.domain.entities;
 
 
 import jakarta.persistence.*;

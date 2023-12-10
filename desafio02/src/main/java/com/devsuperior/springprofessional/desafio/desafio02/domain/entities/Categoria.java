@@ -1,4 +1,4 @@
-package com.devsuperior.springprofessional.desafio.desafio02.domain.model;
+package com.devsuperior.springprofessional.desafio.desafio02.domain.entities;
 
 
 import jakarta.persistence.*;
@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 @Table(name="tb_categoria")
