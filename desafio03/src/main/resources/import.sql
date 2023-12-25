@@ -1,0 +1,11 @@
+--https://www.4devs.com.br/gerador_de_pessoas
+insert into tb_client (name, cpf, income, birth_date, children) values ('Samuel Elias Henry das Neves','48693446029', 5000,'2000-03-30',1)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Noah Gael Yuri da Rocha','95321962340', 4530,'1994-04-07',0)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Aline Marina Farias','41653713437', 25390.55,'1997-02-14',3)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Guilherme Edson Paulo Campos','53244992501', 8973.25,'1961-03-17',4)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Benício Julio Henry Rodrigues','17222273549', 11789.36,'1953-05-03',2)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Sebastião Joaquim Leandro Rezende','39937102820', 2789.35,'1984-02-18',2)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Márcio Raul Ferreira','10739664611', 37890.89,'1959-01-16',1)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Helena Valentina Pires','80033287210', 45789.85,'1977-12-04',1)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Fernando Theo Rocha','65095270900', 3452.96,'1965-01-20',3)
+insert into tb_client (name, cpf, income, birth_date, children) values ('Luiza Mariana Gomes','37880676597', 4487.90,'1999-08-05',2)
